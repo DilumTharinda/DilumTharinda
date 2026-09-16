@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,100:bd93f9&height=250&section=header&text=Dilum%20Tharinda&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20%7C%20Industrial%20Management%20Student&descAlignY=75&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=Dilum%20Tharinda&fontSize=55&fontColor=ffffff&desc=Software%20Developer%20%7C%20Industrial%20Management%20Student&descAlignY=75&descSize=20" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8be9fd&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dilum+%F0%9F%91%8B;Building+Mobile+Apps+%26+Embedded+Systems;Exploring+PlatformIO%2C+Docker+%26+CI%2FCD;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38ef7d&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dilum+%F0%9F%91%8B;Building+Mobile+Apps+%26+Embedded+Systems;Exploring+PlatformIO%2C+Docker+%26+CI%2FCD;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:tharindadilum6@gmail.com"><img src="https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/dilumtharinda"><img src="https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/dilum/"><img src="https://img.shields.io/badge/Microsoft%20Learn-8be9fd?style=for-the-badge&logo=microsoft&logoColor=1e1e2e" alt="Microsoft Learn" /></a>
+  <a href="mailto:tharindadilum6@gmail.com"><img src="https://img.shields.io/badge/Email-11998e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/dilumtharinda"><img src="https://img.shields.io/badge/LinkedIn-22c186?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/dilum/"><img src="https://img.shields.io/badge/Microsoft%20Learn-38ef7d?style=for-the-badge&logo=microsoft&logoColor=1e1e2e" alt="Microsoft Learn" /></a>
 </p>
 
 <br>
@@ -38,16 +38,16 @@
 
 <p align="center">
   <a href="https://github.com/DilumTharinda">
-    <img src="https://github-readme-stats.vercel.app/api?username=DilumTharinda&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DilumTharinda&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/DilumTharinda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumTharinda&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumTharinda&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="38%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DilumTharinda">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumTharinda&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilumTharinda&theme=merko&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -66,9 +66,9 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DilumTharinda&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=DilumTharinda&style=for-the-badge&color=38ef7d&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:ff79c6&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38ef7d,100:11998e&height=120&section=footer" width="100%" />
 </p>
