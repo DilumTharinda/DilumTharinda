@@ -71,10 +71,10 @@
 
 <p align="center">
   <a href="https://github.com/DilumTharinda">
-    <img src="https://github-readme-stats.vercel.app/api?username=DilumTharinda&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DilumTharinda&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/DilumTharinda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilumTharinda&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="38%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DilumTharinda&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="38%" />
   </a>
 </p>
 
